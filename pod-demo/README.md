@@ -26,6 +26,8 @@ kubectl create -f pod.yaml
 kubectl get pods 
 ```
 
+![Nginx Pod](https://user-images.githubusercontent.com/16643699/185358843-35740704-363a-4b53-8ff6-cc47f4144b73.png)
+
 if it's shows above output then nginx pod is created.
 
 ## To get more details about pods 
